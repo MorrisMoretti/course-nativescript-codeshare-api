@@ -94,9 +94,7 @@ venv2
 .ropeproject
 
 *.idea
-!/server/src/nectar/settings.py
 *.swp
-*.db
 .DS_Store
 pylintrc
 *.pyc
